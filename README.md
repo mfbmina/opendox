@@ -1,3 +1,5 @@
+YOU SHOULD NOT USE THIS FORK! IT IS ONLY FOR A LEGACY PROJECT
+
 Opendox - OpenAPI 3.0 (Swagger 3) package for Lumen and Laravel
 ====================
 
